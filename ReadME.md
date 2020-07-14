@@ -8,7 +8,7 @@ There are two limits with squarespace, one is that there can only be three dropd
 
 To use this just update this and run the console app in visual studio, it'll output to the document folder in a file called "Output-Template.csv" (or change it to where you like)
 
-Example Variation:
+Example Variation in Program.cs:
 
 ```csharp
 var optionsandPrice = new List<Variation>
@@ -30,3 +30,7 @@ var optionsandPrice = new List<Variation>
 										} },
 			};
 ```
+
+Example CSV Output:
+
+![Output CSV](Example.png "Output CSV")
