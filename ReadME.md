@@ -33,4 +33,4 @@ var optionsandPrice = new List<Variation>
 
 Example CSV Output:
 
-![Output CSV](Example.png "Output CSV")
+![Output CSV](Example.PNG "Output CSV")
